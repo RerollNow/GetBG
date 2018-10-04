@@ -1,0 +1,22 @@
+{
+  "name": "getbg",
+  "version": "0.1.0",
+  "private": true,
+  "typings": "dist/index",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.1.3",
+    "get-youtube-id": "^1.0.0",
+    "node-fetch": "^2.2.0",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "react-scripts": "1.1.5",
+    "reactstrap": "^6.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
